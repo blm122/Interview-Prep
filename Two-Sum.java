@@ -3,7 +3,7 @@
 //their complement is already in the table
 
 
-class Solution {
+class Two-Sum {
     public int[] twoSum(int[] nums, int target) {
         
         int x = 0;
